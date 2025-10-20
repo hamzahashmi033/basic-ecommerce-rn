@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "Test@test.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "email": "test1@test.com",
+      "password": "123456"
+    }
+  ],
+  "products": [
+    {
+      "id": "2279",
+      "name": "Product 1",
+      "price": 6669,
+      "description": "Babababhhw",
+      "image": "https://images.unsplash.com/photo-1629198688000-71f23e745b6e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YmVhdXR5JTIwcHJvZHVjdHN8ZW58MHx8MHx8fDA%3D&fm=jpg&q=60&w=3000"
+    },
+    {
+      "id": "49fb",
+      "name": "Product 2",
+      "price": 258,
+      "description": "Bababababaab",
+      "image": "https://plus.unsplash.com/premium_photo-1661769750859-64b5f1539aa8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZHVjdCUyMGltYWdlfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000"
+    },
+    {
+      "id": "041c",
+      "name": "Product 3",
+      "price": 588,
+      "description": "Product 3",
+      "image": "https://thumbs.dreamstime.com/b/many-bottles-cleaning-solutions-isolated-white-background-products-79840593.jpg"
+    },
+    {
+      "id": "15a2",
+      "name": "Product C",
+      "price": 133,
+      "description": "This is a description",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ImagePicker/473fdb1a-c8b3-45d6-9939-b0b4db5736ab.jpeg"
+    },
+    {
+      "id": "0a0a",
+      "name": "ducsdc",
+      "price": 23,
+      "description": "sdffdsf fdadf",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ImagePicker/9f8edc1b-5e92-47fd-8da6-cc252842fe95.jpeg"
+    },
+    {
+      "id": "386f",
+      "name": "product",
+      "price": 121,
+      "description": "svdsd wdwde",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ImagePicker/46605b6c-fefa-4025-9a53-08d311f768f8.jpeg"
+    }
+  ]
+}
